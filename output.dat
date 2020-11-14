@@ -1,0 +1,1627 @@
+%!PS-Adobe-3.0 EPSF-3.0                                                         
+%%BoundingBox: 0 0 135 110                                                      
+614 25 translate 90 rotate .88 .76 scale                                        
+    /n 1 def                                                                    
+    /fs 10 def                                                                  
+    /ls 11.2 def                                                                
+    /ld ls 2 mul def                                                            
+    /lt ls 3 mul def                                                            
+    /t 740 fs sub def                                                           
+    /y t def /ff t def /os 20 def                                               
+    /s 512 string def                                                           
+    /Courier-Bold findfont                                                      
+    fs scalefont setfont                                                        
+    /p {n {copypage} repeat erasepage} def                                      
+    /i (%stdin) (r) file def                                                    
+    /{/c i read not {p stop} if def                                             
+    c 26 eq {p stop} if                                                         
+    /x 20 def                                                                   
+    /y c 43 eq {y /x os def}                                                    
+    {c 32 eq {y ls sub}                                                         
+    {c 48 eq {y ld sub}                                                         
+    {c 45 eq {y lt sub}                                                         
+    {c 49 eq {ff} {y} ifelse}                                                   
+    ifelse} ifelse} ifelse} ifelse def                                          
+    /ff 0 def                                                                   
+    y 30 le {p /y t def} if x y moveto                                          
+    /os i s readline not {p stop} if dup show                                   
+    length 0 eq {20} {20.72} ifelse def } loop                                  
+1                                                                                                                        
+1                                                    X X XXXXXXXXX                                                       
+                                                   XXXXX          OO                                                     
+                                                  XXXX X    //      OO                                                   
+                                                 XX X     //         OO                                                  
+                                                XXXX     //           OO                                                 
+                                                XX      //            OO                                                 
+                                               $$                      OO                                                
+                                              $$$                       OO                                               
+                                             $$$ $         ****   ****  OO                                               
+                                             $$$ $         *****  *****  O                                               
+                                             $$$ $         *****  *****  OO                                              
+                                            $$$$$$         *****  *****   OOOOO                                          
+                                            $$$ $$         ****    ****        OOO                                       
+                                           $$$$ $$                                 OO                                    
+                                           $$$$$$$                                   OO                                  
+                                           $$$$$$                                     OOO                                
+                                           $$$$$$$                                     OOO                               
+                                           $$$$$$$                                      OOO                              
+                                          $$$$$$ $$                                      OOO                             
+                                          $$$$$$$ $$                      MMMMMMM        OOO                             
+                                          $$$$$$$ $ OO                   MMMMMMMMMMM     OOO                             
+                                          $$$$$$$ $  OO                  MMMMMMMMMMM     OOO                             
+                                         $$$$$$$$ $   O OOOOOO              MMMMMMM      OOO                             
+                                         $ $$$$$$ $    O     OOOOOO                     OOO                              
+                                         $ $$$$$$ $    OO       OOO                    OOO                               
+                                         $$$$$$$  $     O       O  OOO              OOOO                                 
+                                         $    $$  $      O      O    OOOOOOOOOOOOOOOO                                    
+                                         $$   $ $        O      O    $ $  $$                                             
+                                          $$$ $ $       **********   $ $ $$$                                             
+                                            $$           O ***** OO  $  $$$                                              
+                                            $$          OO       OO  $$ $ $                                              
+                                                       OO        OO   $$ $                                               
+                                                        OO        OO                                                     
+                                                       OO          OO                                                    
+                                                       OO           OO                                                   
+                                                      OO            OO                                                   
+                                                     OO             OO                                                   
+                                                   OOO      O       OO                                                   
+                                                  OOO       O       OOO                                                  
+                                                 OOO  O     O        OO                                                  
+                                                OOO  O     OO        OO                                                  
+                                               OOO   O     OO        OO                                                  
+                                              OO OOO O     OO        OO                                                  
+                                             OOOO  OOO     OO        OO                                                  
+                                            OOO     OO     OO       OO                                                   
+                                            OOO     OO     OO       OOO                                                  
+                                           OO       O      OOO     OO OOOO                                               
+                                           OO       O    OOOOOOOO OOOOOOOOOOOOOO                                         
+                                      IIIIIIOOO     O       O   OOOOOOO         OO                                       
+                                  IIII IIIIIIOO     O                 OOO        OO                                      
+                                III           OOOOOOO            OOOO    OO   O   OO          ------                     
+                                IIIIIII   II        O               OOO   OO   OO  O   --------                          
+                                     III   III      O          O      OO   O    O  O                                     
+                                       IIIIII IIII  OO         OO      OO  OOO  O OO          ------                     
+                                                 ----OOOOOOOOOOOOO     O OO OOOOOOO  ----------                          
+                                     ---------                 OOOOOOOO OO                                               
+                                                                                                                         
+                                                 LOVE IS A WET PUPPY DOG                                                 
+1
+                              JJJJJJJ   AAAAA   N     N  U     U   AAAAA   RRRRRR   Y     Y                              
+         000                     J     A     A  NN    N  U     U  A     A  R     R   Y   Y               222             
+        0   0                    J     A     A  N N   N  U     U  A     A  R     R    Y Y               2   2            
+   222  0   0                    J     AAAAAAA  N  N  N  U     U  AAAAAAA  RRRRRR      Y                   2    1        
+  2   2 0   0                    J     A     A  N   N N  U     U  A     A  R   R       Y                 2     11        
+     2   000                  J  J     A     A  N    NN  U     U  A     A  R    R      Y                22222   1        
+   2                           JJ      A     A  N     N   UUUUU   A     A  R     R     Y                        1        
+  22222                                                                                                       11111      
+                                                                                                                         
+                                                                                                                         
+    SUNDAY            MONDAY            TUESDAY          WEDNESDAY         THURSDAY           FRIDAY           SATURDAY  
+                                                                                                                         
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I           1     I          222 
+                I                 I                 I                 I                 I          11     I         2   2
+                I                 I                 I                 I                 I           1     I            2 
+                I                 I                 I                 I                 I           1     I          2   
+                I                 I                 I                 I                 I         11111   I         22222
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+        33333   I            4    I         55555   I          666    I         77777   I          888    I          999 
+            3   I           44    I         5       I         6       I             7   I         8   8   I         9   9
+          33    I          4 4    I         5555    I         6666    I            7    I          888    I          9999
+        3   3   I         44444   I             5   I         6   6   I           7     I         8   8   I             9
+         333    I            4    I         5555    I          666    I           7     I          888    I          999 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1     000    I    1      1     I    1     222    I    1    33333   I    1       4    I    1    55555   I    1     666 
+  11    0   0   I   11     11     I   11    2   2   I   11        3   I   11      44    I   11    5       I   11    6    
+   1    0   0   I    1      1     I    1       2    I    1      33    I    1     4 4    I    1    5555    I    1    6666 
+   1    0   0   I    1      1     I    1     2      I    1    3   3   I    1    44444   I    1        5   I    1    6   6
+ 11111   000    I  11111  11111   I  11111  22222   I  11111   333    I  11111     4    I  11111  5555    I  11111   666 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1    77777   I    1     888    I    1     999    I   222    000    I   222     1     I   222    222    I   222   33333
+  11        7   I   11    8   8   I   11    9   9   I  2   2  0   0   I  2   2   11     I  2   2  2   2   I  2   2      3
+   1       7    I    1     888    I    1     9999   I     2   0   0   I     2     1     I     2      2    I     2     33 
+   1      7     I    1    8   8   I    1        9   I   2     0   0   I   2       1     I   2      2      I   2     3   3
+ 11111    7     I  11111   888    I  11111   999    I  22222   000    I  22222  11111   I  22222  22222   I  22222   333 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222      4    I   222   55555   I   222    666    I   222   77777   I   222    888    I   222    999    I  33333   000 
+ 2   2    44    I  2   2  5       I  2   2  6       I  2   2      7   I  2   2  8   8   I  2   2  9   9   I      3  0   0
+    2    4 4    I     2   5555    I     2   6666    I     2      7    I     2    888    I     2    9999   I    33   0   0
+  2     44444   I   2         5   I   2     6   6   I   2       7     I   2     8   8   I   2         9   I  3   3  0   0
+ 22222     4    I  22222  5555    I  22222   666    I  22222    7     I  22222   888    I  22222   999    I   333    000 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+ 33333    1     I                 I                 I                 I                 I                 I              
+     3   11     I                 I                 I                 I                 I                 I              
+   33     1     I                 I                 I                 I                 I                 I              
+ 3   3    1     I                 I                 I                 I                 I                 I              
+  333   11111   I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ------------------------------------------------------------------------------------------------------------------------
+1                                                   XXXXXXXXXX                                                           
+                                                   XXXXXXXXXXXXXX                                                        
+                                                 XXXX    XXX   XXX                                                       
+                                                XXXX    X  XX   XXX                                                      
+                                               XXX               XXX                                                     
+                                              XX                   XX                                                    
+                                             XXX                    XX                                                   
+                                            XXX                      XX                                                  
+                                            XXX                      XXX                                                 
+                                            XXX              XX XXX   XXXXXXXXXXX                                        
+                                            XX            XXXXX   XXXX  XXXXX   XXXX                                     
+                                            XX           XX                        XXX                                   
+                                            XX                                       XX                                  
+                                            X                                         XX                                 
+                                            X                                          XX                                
+                                           XX                                           XX                               
+                                           XX X  XX                                      XX                              
+                                           X XX XXXX                                      XX                             
+                                           X  XX XXXX                       XXXXX         XX                             
+                                           X  XXXXXXX                     XXXXXXXX        XX                             
+                                           X  XXXXXXXX                    XXXXXXXX        XX                             
+                                           X  XXXXXXXXX                    XXXXXX         XX                             
+                                           X  XXXXXXXXXX                                 XX                              
+                                           X  XXXXXXXXXX                                 XX                              
+                                           X  XXXXXXXXXX                                XXX                              
+                                           XX XXXXXXXXXX                               XXX                               
+                                            X XXXXXXXX X                               XX                                
+                                            X XXXXXXXX XX                            XXX                                 
+                                            X  XXXXXXX XXX          XXXXXXXXXXXXXXXXXXX                                  
+                                             X XXXXXXX XXXX        XXXXXX                                                
+                                             X  XXXXXX XXXXX      XX  XXX                                                
+                                              X XXXXXX XX  XX     XX  XXX                                                
+                                              XX XXXXX XX   XX    XX  XXX                                                
+                                                X  XX  X     XXXXXXXX                                                    
+                                                 XX   XX    XXXXXXXXXX                                                   
+                                                  XXXXX      XX      XX                                                  
+                                                    X       XX        X                                                  
+                                                        XXXX    XXXXXXXXXX                                               
+                                                       XXX   XXXXXX   XXXXXX                                             
+                                                      XX                XXX X                                            
+                                    XXXXXXXXXXXXXXXXXXX                  XXXXXXXXXXXXXXXXXXXXXXXX                        
+                                   X                 XXXX   XXXXXXXX    XXX                      X                       
+                                  X                   XXXXXXX     XXX  XXX                        X                      
+                                 X                                  XXXXX                          X                     
+                                X                                                                   X                    
+                               XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                   
+                               X                                                                     X                   
+                               X                                                    XXXXXXXXXXXXXX   X                   
+                               X                                                    X            X   X                   
+                               X  XXXX  XXXXX XXXXX XXXXX XXXXX XXXX    XXX  XXXXX  X XXX  X   X X   X                   
+                               X  X   X X   X X       X   X   X X   X    X   X      X  X   XX  X X   X                   
+                               X  X   X X   X X       X   X   X XXXX     X   XXXXX  X  X   X X X X   X                   
+                               X  X   X X   X X       X   X   X X X      X       X  X  X   X  XX X   X                   
+                               X  XXXX  XXXXX XXXXX   X   XXXXX X  X    XXX  XXXXX  X XXX  X   X X   X                   
+                               X                                                    X            X   X                   
+                               X                                                    XXXXXXXXXXXXXX   X                   
+                               X                                                                     X                   
+                               X                                                                     X                   
+                               X                                                                     X                   
+1
+                          FFFFFFF  EEEEEEE  BBBBBB   RRRRRR   U     U   AAAAA   RRRRRR   Y     Y                         
+         000              F        E        B     B  R     R  U     U  A     A  R     R   Y   Y          222             
+        0   0             F        E        B     B  R     R  U     U  A     A  R     R    Y Y          2   2            
+   222  0   0             FFFFF    EEEEE    BBBBBB   RRRRRR   U     U  AAAAAAA  RRRRRR      Y              2    1        
+  2   2 0   0             F        E        B     B  R   R    U     U  A     A  R   R       Y            2     11        
+     2   000              F        E        B     B  R    R   U     U  A     A  R    R      Y           22222   1        
+   2                      F        EEEEEEE  BBBBBB   R     R   UUUUU   A     A  R     R     Y                   1        
+  22222                                                                                                       11111      
+                                                                                                                         
+                                                                                                                         
+    SUNDAY            MONDAY            TUESDAY          WEDNESDAY         THURSDAY           FRIDAY           SATURDAY  
+                                                                                                                         
+                I                 I                 I                 I                 I                 I              
+                I           1     I          222    I         33333   I            4    I         55555   I          666 
+                I          11     I         2   2   I             3   I           44    I         5       I         6    
+                I           1     I            2    I           33    I          4 4    I         5555    I         6666 
+                I           1     I          2      I         3   3   I         44444   I             5   I         6   6
+                I         11111   I         22222   I          333    I            4    I         5555    I          666 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+        77777   I          888    I          999    I    1     000    I    1      1     I    1     222    I    1    33333
+            7   I         8   8   I         9   9   I   11    0   0   I   11     11     I   11    2   2   I   11        3
+           7    I          888    I          9999   I    1    0   0   I    1      1     I    1       2    I    1      33 
+          7     I         8   8   I             9   I    1    0   0   I    1      1     I    1     2      I    1    3   3
+          7     I          888    I          999    I  11111   000    I  11111  11111   I  11111  22222   I  11111   333 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1       4    I    1    55555   I    1     666    I    1    77777   I    1     888    I    1     999    I   222    000 
+  11      44    I   11    5       I   11    6       I   11        7   I   11    8   8   I   11    9   9   I  2   2  0   0
+   1     4 4    I    1    5555    I    1    6666    I    1       7    I    1     888    I    1     9999   I     2   0   0
+   1    44444   I    1        5   I    1    6   6   I    1      7     I    1    8   8   I    1        9   I   2     0   0
+ 11111     4    I  11111  5555    I  11111   666    I  11111    7     I  11111   888    I  11111   999    I  22222   000 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222     1     I   222    222    I   222   33333   I   222      4    I   222   55555   I   222    666    I   222   77777
+ 2   2   11     I  2   2  2   2   I  2   2      3   I  2   2    44    I  2   2  5       I  2   2  6       I  2   2      7
+    2     1     I     2      2    I     2     33    I     2    4 4    I     2   5555    I     2   6666    I     2      7 
+  2       1     I   2      2      I   2     3   3   I   2     44444   I   2         5   I   2     6   6   I   2       7  
+ 22222  11111   I  22222  22222   I  22222   333    I  22222     4    I  22222  5555    I  22222   666    I  22222    7  
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222    888    I                 I                 I                 I                 I                 I              
+ 2   2  8   8   I                 I                 I                 I                 I                 I              
+    2    888    I                 I                 I                 I                 I                 I              
+  2     8   8   I                 I                 I                 I                 I                 I              
+ 22222   888    I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ------------------------------------------------------------------------------------------------------------------------
+1                                                                                                                        
+                                   $$$$$$         $$$$$                                                                  
+                                 $$$$$$$$$$     $$$$$$$$$$                                                               
+                                $$$$$$$$$$$$   $$$$$$$$$$$$$                                                             
+                               $$$$$$$$$$$$$$ $$$$$$$$$$$$$$$                                                            
+                              $$$$$$$$$$$$$$$ $$$$$$$$$$$$$$$$                                                           
+                              $$$$$$$$$$$$$$$ $$$$$$$$$$$$$$$$                                                           
+                              $$$$$$$$$$$$$$$ $$$$$$$$$$$$$$$$                                                           
+                               $$$$$$$$$$        $$$$$$$$$$$$                                                            
+                                $$$$$$$            $$$$$$$$                                                              
+                                 $$$$$              $$$$$                                                                
+                                                        $$$$$$$$                                                         
+                             $$$$$$$                  $$$$$$$$$$$                                                        
+                           $$$$$$$$$                 $$$$$$$$$$$$                                                        
+                          $$$$$$$$$$$               $$$$$$$$$$$$$                                                        
+                          $$$$$$$$$$$$             $$$$$$$$$$$$$$                                                        
+                          $$$$$$$$$$$$$$ $$     $$$$ $$$$$$$$$$$$                                                        
+                           $$$$$$$$$$$$ $$$$$$$$$$$$$ $$$$$$$$$$                                                         
+                            $$$$$$$$$   $$$$$$$$$$$$$   $$$$$$                                                           
+                              $$$$$$   $$$$$$$$$$$$$$                                                                    
+                                       $$$$$$$$$$$$$ $$                                                                  
+                                        $$$$$$$$$$$  $$                                                                  
+                                          $$$$$$$$$   $$                                                                 
+                                                      $$                                                                 
+                                                       $$                                                                
+                                                       $$                                                                
+                                                       $$                                                                
+                                                       $$                                               ,   .            
+                                                       $$                                               ,  /   .         
+                                                       $$       $$$$$$$$                                , /  .-  .       
+                                                      $$    $$$$$$$$$$$$$$                              .  .-  .-        
+                                                     $$   $$$$$$$$$$$$$$$$                            ./    .-- ...      
+                            $$$$$$                  $$  $$$$$$$$$$$$$$$$$$$                  .-------- *     .--         
+                        $$$$$$$$$$$$$$             $$ $$$$$$$$$$$                           /                .......     
+                       $$$$$$$$$$$$$$$$           $$$$$$$$$$$$                              ,                 ..         
+                      ######## $$$$$$$$$         $$$$$$$$$$                                  ........           ----     
+                     $$$$$$       $$$$$$$      $$$$$                                                 .        --..       
+                     $$            $$$$$$$    $$$                                                     .  .---..   -      
+                                    $$$$$$   $$                                                       . ,      -.        
+                                     $$$$$  $$                                                       /   ,               
+                                       $$$$ $$                                                      / , , ,              
+                                       $$$$ $$                                                     ,  , ,  ,             
+                                        $$$$$                                                      ,  ,  , ,             
+                                         $$$$                                                      ,  ,  , ,             
+                                          $$$                                                      ,   , , ,             
+                                           $$                                                       ,   ,  ,             
+                                            $                                                        -..,.----------.    
+                                            $                                                           I   ----------   
+                                            $                                                     /////////.             
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                                                                         
+                                                                 S I G H  . . .                                          
+1
+                                       M     M   AAAAA   RRRRRR    CCCCC   H     H                                       
+         000                           MM   MM  A     A  R     R  C     C  H     H                       222             
+        0   0                          M M M M  A     A  R     R  C        H     H                      2   2            
+   222  0   0                          M  M  M  AAAAAAA  RRRRRR   C        HHHHHHH                         2    1        
+  2   2 0   0                          M     M  A     A  R   R    C        H     H                       2     11        
+     2   000                           M     M  A     A  R    R   C     C  H     H                      22222   1        
+   2                                   M     M  A     A  R     R   CCCCC   H     H                              1        
+  22222                                                                                                       11111      
+                                                                                                                         
+                                                                                                                         
+    SUNDAY            MONDAY            TUESDAY          WEDNESDAY         THURSDAY           FRIDAY           SATURDAY  
+                                                                                                                         
+                I                 I                 I                 I                 I                 I              
+                I           1     I          222    I         33333   I            4    I         55555   I          666 
+                I          11     I         2   2   I             3   I           44    I         5       I         6    
+                I           1     I            2    I           33    I          4 4    I         5555    I         6666 
+                I           1     I          2      I         3   3   I         44444   I             5   I         6   6
+                I         11111   I         22222   I          333    I            4    I         5555    I          666 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+        77777   I          888    I          999    I    1     000    I    1      1     I    1     222    I    1    33333
+            7   I         8   8   I         9   9   I   11    0   0   I   11     11     I   11    2   2   I   11        3
+           7    I          888    I          9999   I    1    0   0   I    1      1     I    1       2    I    1      33 
+          7     I         8   8   I             9   I    1    0   0   I    1      1     I    1     2      I    1    3   3
+          7     I          888    I          999    I  11111   000    I  11111  11111   I  11111  22222   I  11111   333 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1       4    I    1    55555   I    1     666    I    1    77777   I    1     888    I    1     999    I   222    000 
+  11      44    I   11    5       I   11    6       I   11        7   I   11    8   8   I   11    9   9   I  2   2  0   0
+   1     4 4    I    1    5555    I    1    6666    I    1       7    I    1     888    I    1     9999   I     2   0   0
+   1    44444   I    1        5   I    1    6   6   I    1      7     I    1    8   8   I    1        9   I   2     0   0
+ 11111     4    I  11111  5555    I  11111   666    I  11111    7     I  11111   888    I  11111   999    I  22222   000 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222     1     I   222    222    I   222   33333   I   222      4    I   222   55555   I   222    666    I   222   77777
+ 2   2   11     I  2   2  2   2   I  2   2      3   I  2   2    44    I  2   2  5       I  2   2  6       I  2   2      7
+    2     1     I     2      2    I     2     33    I     2    4 4    I     2   5555    I     2   6666    I     2      7 
+  2       1     I   2      2      I   2     3   3   I   2     44444   I   2         5   I   2     6   6   I   2       7  
+ 22222  11111   I  22222  22222   I  22222   333    I  22222     4    I  22222  5555    I  22222   666    I  22222    7  
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222    888    I   222    999    I  33333   000    I  33333    1     I                 I                 I              
+ 2   2  8   8   I  2   2  9   9   I      3  0   0   I      3   11     I                 I                 I              
+    2    888    I     2    9999   I    33   0   0   I    33     1     I                 I                 I              
+  2     8   8   I   2         9   I  3   3  0   0   I  3   3    1     I                 I                 I              
+ 22222   888    I  22222   999    I   333    000    I   333   11111   I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ------------------------------------------------------------------------------------------------------------------------
+1OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                                                                                        
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                                                                                        
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                               $$$$$$$                                                  
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                           $$$$$$$$$$$$$$$                                              
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                         $$$$$$$$$$$$$$$$$$                                             
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                         $$$$$$$$$$$$$$$$$$                                             
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                   $$$$                    $$$$$$$$$$$$$$$                                              
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                 $$$$ $$                            $$$$$                                               
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                              $$$$$$ $$$                          $$$$$$                                                
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                             $$$$$$ $$$                        $$$$$$$$                                                 
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                           $$$$$$$ $$$              $$$$$$   $$$$$$       $$$$$$$$$$$$$                                 
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO            OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                          $$$$$$$$$$$           $$$$$$$$$$$$$$$$        $$            $$$$                              
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO            OOOOOOOOOO                 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                         $$$$$$$$$$$           $$             $$$$$$$$$$                 $$                             
+ OOOOOOOOOOOOOOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOO        OO                                 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                       $$$ $$$$$$$$          $$        $$                                 $$                            
+ OOOOOOOOOOOOOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOO        OO                                   OOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                      $$$ $$$$$$$$          $$        $$                                   $$                           
+ OOOOOOOOOOOOOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOO        OO                     OOOOOOOOO       OOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                     $$$$ $$$$$$           $$        $$                     $$$$$$$$$       $$                          
+ OOOOOOOOOOOOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOO                               OOOOOOOOOOOO      OOOOOOOOOOOOOOOOOOOOOOOOOOO
++                    $$$$ $$$$$$          $$$                               $$$$$$$$$$$$      $$                         
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                OO            OOOOOOOOOOOO      OOOOOOOOOOOOOOOOOOOOOOOOOOO
++                    $$$$$$$$$$$$$$$$$$$$$$$$$                $$            $$$$$$$$$$$$      $$                         
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                OO                              OOOOOOOOOOOOOOOOOOOOOOOOOOO
++                    $$$$$$$$$$$$$$$$$$$$$$$$$                $$                              $$                         
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                 OO                     OO     OOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                     $$$$$$$$$$$$$$$$$$$$$$$$                 $$                     $$     $$                          
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                  OO                   OO     OOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                       $$$$$$$$$$$$$$$    $$$                  $$                   $$     $$                           
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                    OO              OOO    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                           $$                    $$              $$$    $$$                             
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                    OO    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                            $$                    $$    $$$$$$$$$$$$$$$$                                
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                              $$$$                 $$$$$$$                                              
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO              OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                 $$$$$              $$$              $$$$                               
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO          OOOOOOOOOOOOOOOOOO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                     $$$$$          $$              $$  $   $$$                         
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO        OOOOOOOOOOOOOOOOOO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                          $$        $$              $$  $$$$$$$$$                       
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO       OOOOOOOOOOOOOOOOOO  O       OOOOOOOOOOOOOOOOOOOOOOOO
++                                                           $$       $$              $$  $       $$$                     
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO           OOOOOOOOOOOOOOOOOOOOOOOOO
++                                                             $$$$$$$$$$           $$           $$$$                     
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO              OOOOOOOOOOOOOOOOOOOOOOOO
++                                                $$$$         $$$$$$$$$$$$      $$$              $$$                     
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO    OOOOOOOOOOOOOOOOOOOOOOOOOOOO       OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                              $$    $       $$$$$$$$$$$$$    $$$       $$$$$$$$$$$$                     
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO     OOOOOOOOOOOOOO      OOOOOO      OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                             $$     $        $$$$$      $$$$$$      $$$$    $$$$$                       
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO    OOOOOOOOOOOOOO        O       OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                              $$    $$           $        $       $$$                                   
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  OOOOOOOOOOOOOO            OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                $$  $$$$$$$$$$$$$$            $$$$                                      
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                              OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                             $$$$                              $$                                       
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                                   OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                           $$                                   $$                                      
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO        OOOOOOOOOOOOOO              OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                          $$$        $$$$$$$$$$$$$$              $$                                     
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO      OOOOOOOOOOOOOO               OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                          $$$$$      $$          $$               $$                                    
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO   O   OOOOOOOOOOOOOO                OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                           $$$   $   $           $$                $$                                   
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  OOOOOOOOOOOOOOOOOO                 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                             $$  $$$$$           $$                 $$                                  
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                   OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                               $$$$$            $$                   $$                                 
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO       OOOOOOO     OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                                $$       $$$$$$$     $$$                                
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO     OOOO    OO     OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                         $$$    $$     $$$$    $$     $$                                
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO   OO        OO     OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                       $$$$    $$$   $$        $$     $$                                
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OOO         OO     OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                      $$$     $$$$ $$$         $$     $$                                
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OOOOOOOOOOOOO           O      OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                     $ $$     $$$$$$           $      $$$$$$$                           
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  OOOOOOOOOOO            OO    OOO    OOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                    $  $     $$$$$            $$    $$$    $$$                          
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  OOOOOOOOOOO            OO  OOO      OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                   $  $$     $$$$            $$  $$$      $$$                           
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  OOOOOOOOOOO           OOOO      OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                 $$$  $$     $$$$           $$$$      $$$$                              
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO   OOOOOOOOOO          OOOOO   OOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                $$$   $$     $$$          $$$$$   $$$ $$$                               
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO OO   OOOOOOOOOO         OOO       OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                               $ $$   $$     $$$         $$$       $$$$$                                
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  O   OOOOOOOOOO       OOO      OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                               $  $   $$     $$$       $$$      $$$$$$$$$$$$                            
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  O    OOOOOOOOOO   OOO      OOOOO      OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                              $$  $    $$$$$$$$$$   $$$      $$$$$      $$$                             
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  O      OOOOOOOO  OOOOOOOOOOOOO    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                              $$  $      $$$$$$$$  $$$$$$$$$$$$$    $$$$$                               
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  OOOOOOOOOOOOO     OOOOOO      OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                              $$  $$$$$$$$$$$$$     $$$$$$      $$$$$$$$$                               
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO       OOOOOOOOOOOOOO     OOOOOOO       OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                               $$       $$$$$$$$$$$$$$     $$$$$$$       $$$$$                          
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                OOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                $$$$$$$$$$$$$$$$$$$$$$$$$$$$                $$$                         
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO          OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                      $$$$    $$$          $$$$$$$$$$$$$$$$$$$$$                        
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO       O       OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                               $$$$$$$$$$       $$$$$$       $       $$$$$                              
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                $$$$$$$$             $$$$$$$$$$$$    $$$$$$                             
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
++                                                                               $$$$$$$$$$$                              
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+1
+                                        AAAAA   PPPPPP   RRRRRR   IIIIIII  L                                             
+         000                           A     A  P     P  R     R     I     L                             222             
+        0   0                          A     A  P     P  R     R     I     L                            2   2            
+   222  0   0                          AAAAAAA  PPPPPP   RRRRRR      I     L                               2    1        
+  2   2 0   0                          A     A  P        R   R       I     L                             2     11        
+     2   000                           A     A  P        R    R      I     L                            22222   1        
+   2                                   A     A  P        R     R  IIIIIII  LLLLLLL                              1        
+  22222                                                                                                       11111      
+                                                                                                                         
+                                                                                                                         
+    SUNDAY            MONDAY            TUESDAY          WEDNESDAY         THURSDAY           FRIDAY           SATURDAY  
+                                                                                                                         
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I           1     I          222    I         33333
+                I                 I                 I                 I          11     I         2   2   I             3
+                I                 I                 I                 I           1     I            2    I           33 
+                I                 I                 I                 I           1     I          2      I         3   3
+                I                 I                 I                 I         11111   I         22222   I          333 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+           4    I         55555   I          666    I         77777   I          888    I          999    I    1     000 
+          44    I         5       I         6       I             7   I         8   8   I         9   9   I   11    0   0
+         4 4    I         5555    I         6666    I            7    I          888    I          9999   I    1    0   0
+        44444   I             5   I         6   6   I           7     I         8   8   I             9   I    1    0   0
+           4    I         5555    I          666    I           7     I          888    I          999    I  11111   000 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1      1     I    1     222    I    1    33333   I    1       4    I    1    55555   I    1     666    I    1    77777
+  11     11     I   11    2   2   I   11        3   I   11      44    I   11    5       I   11    6       I   11        7
+   1      1     I    1       2    I    1      33    I    1     4 4    I    1    5555    I    1    6666    I    1       7 
+   1      1     I    1     2      I    1    3   3   I    1    44444   I    1        5   I    1    6   6   I    1      7  
+ 11111  11111   I  11111  22222   I  11111   333    I  11111     4    I  11111  5555    I  11111   666    I  11111    7  
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1     888    I    1     999    I   222    000    I   222     1     I   222    222    I   222   33333   I   222      4 
+  11    8   8   I   11    9   9   I  2   2  0   0   I  2   2   11     I  2   2  2   2   I  2   2      3   I  2   2    44 
+   1     888    I    1     9999   I     2   0   0   I     2     1     I     2      2    I     2     33    I     2    4 4 
+   1    8   8   I    1        9   I   2     0   0   I   2       1     I   2      2      I   2     3   3   I   2     44444
+ 11111   888    I  11111   999    I  22222   000    I  22222  11111   I  22222  22222   I  22222   333    I  22222     4 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222   55555   I   222    666    I   222   77777   I   222    888    I   222    999    I  33333   000    I              
+ 2   2  5       I  2   2  6       I  2   2      7   I  2   2  8   8   I  2   2  9   9   I      3  0   0   I              
+    2   5555    I     2   6666    I     2      7    I     2    888    I     2    9999   I    33   0   0   I              
+  2         5   I   2     6   6   I   2       7     I   2     8   8   I   2         9   I  3   3  0   0   I              
+ 22222  5555    I  22222   666    I  22222    7     I  22222   888    I  22222   999    I   333    000    I              
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ------------------------------------------------------------------------------------------------------------------------
+1                                                        ********************                                            
++                                                        QQQQQQQQQQQQQQQQQQQQ                                            
+                                                      ***                    ***                                         
++                                                     QQQ                    QQQ                                         
+                                                    **                          **                                       
++                                                   QQ                          QQ                                       
+                                                  **          **********         *                                       
++                                                 QQ          QQQQQQQQQQ         Q                                       
+                                                 *                      *         **                                     
++                                                Q                      Q         QQ                                     
+                                                *                       *           *                                    
++                                               Q                       Q           Q                                    
+                                              **        *   **        **             *                                   
++                                             QQ        Q   QQ        QQ             Q                                   
+                                              *          *************                **                                 
++                                             Q          QQQQQQQQQQQQQ                QQ                                 
+                                             *                                         *                                 
++                                            Q                                         Q                                 
+                                             *                                          *                                
++                                            Q                                          Q                                
+                                             *            ***   ****  ***               *                                
++                                            Q            QQQ   QQQQ  QQQ               Q                                
+                                             *            ***       * ***               *                                
++                                            Q            QQQ       Q QQQ               Q                                
+                                             *                      *                   *                                
++                                            Q                      Q                   Q                                
+                                             *                ******                    **                               
++                                            Q                QQQQQQ                    QQ                               
+                                           ***                                          * **                             
++                                          QQQ                                          Q QQ                             
+                                           *                                 *          * **                             
++                                          Q                                 Q          Q QQ                             
+                                           *                                 ***        * **                             
++                                          Q                                 QQQ        Q QQ                             
+                                           *          ***                   *          ***                               
++                                          Q          QQQ                   Q          QQQ                               
+                                            ****         *                **           *                                 
++                                           QQQQ         Q                QQ           Q                                 
+                                                *         ****************            *                                  
++                                               Q         QQQQQQQQQQQQQQQQ            Q                                  
+                                                 *                                   *                                   
++                                                Q                                   Q                                   
+                                                  **                                *                                    
++                                                 QQ                                Q                                    
+                                                    *                             **                                     
++                                                   Q                             QQ                                     
+                                                     ***                        **                                       
++                                                    QQQ                        QQ                                       
+                                                        **                  ****                                         
++                                                       QQ                  QQQQ                                         
+                                                          ******************                                             
++                                                         QQQQQQQQQQQQQQQQQQ                                             
+                                                          ****************                                               
++                                                         QQQQQQQQQQQQQQQQ                                               
+                                            ****          ***            ***              ****  **                       
++                                           QQQQ          QQQ            QQQ              QQQQ  QQ                       
+                                       *****  **         *   *          *   *            *    ** ***                     
++                                      QQQQQ  QQ         Q   Q          Q   Q            Q    QQ QQQ                     
+                                       **  *  ****      *     **********     *           *    ** ***                     
++                                      QQ  Q  QQQQ      Q     QQQQQQQQQQ     Q           Q    QQ QQQ                     
+                                         ***  **  ******                      ************   *   ****                    
++                                        QQQ  QQ  QQQQQQ                      QQQQQQQQQQQQ   Q   QQQQ                    
+                                       *****    *   *                                 **    *       *                    
++                                      QQQQQ    Q   Q                                 QQ    Q       Q                    
+                                     **  **     ******************************************       *                       
++                                    QQ  QQ     QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ       Q                       
+                                     *******        *                           *     **         ***                     
++                                    QQQQQQQ        Q                           Q     QQ         QQQ                     
+                                        ****        *                            *    **     *** *                       
++                                       QQQQ        Q                            Q    QQ     QQQ Q                       
+                                           ***      *                             **    *    *  **                       
++                                          QQQ      Q                             QQ    Q    Q  QQ                       
+                                           * *    **  **                          **     *  **                           
++                                          Q Q    QQ  QQ                          QQ     Q  QQ                           
+                                           *  ********                            **     ***                             
++                                          Q  QQQQQQQQ                            QQ     QQQ                             
+                                           *        *       *       *         **  *******                                
++                                          Q        Q       Q       Q         QQ  QQQQQQQ                                
+                                           *        **     ****    ****      **** ****                                   
++                                          Q        QQ     QQQQ    QQQQ      QQQQ QQQQ                                   
+                                           *        ****  ******  ******    **********                                   
++                                          Q        QQQQ  QQQQQQ  QQQQQQ    QQQQQQQQQQ                                   
+                                           *        ***** ******* ******* *************                                  
++                                          Q        QQQQQ QQQQQQQ QQQQQQQ QQQQQQQQQQQQQ                                  
+                                           *        ***********************************                                  
++                                          Q        QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ                                  
+                                           *        * ******* ******* *******   *******                                  
++                                          Q        Q QQQQQQQ QQQQQQQ QQQQQQQ   QQQQQQQ                                  
+                                        ******      *   ****    ****    ****     **** *                                  
++                                       QQQQQQ      Q   QQQQ    QQQQ    QQQQ     QQQQ Q                                  
+                                      **      **    *    *       *       *        **  *                                  
++                                     QQ      QQ    Q    Q       Q       Q        QQ  Q                                  
+                                     *          *   *                                 *                                  
++                                    Q          Q   Q                                 Q                                  
+                                    **************  *                                 *                                  
++                                   QQQQQQQQQQQQQQ  Q                                 Q                                  
+                                    *            *  ***********************************                                  
++                                   Q            Q  QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ                                  
+                                    **************  ***********************************                                  
++                                   QQQQQQQQQQQQQQ  QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ                                  
+                                    **************  ***********************************                                  
++                                   QQQQQQQQQQQQQQ  QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ                                  
+                                     *          *   ***********************************                                  
++                                    Q          Q   QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ                                  
+                                      **      **         *   *****************   *                                       
++                                     QQ      QQ         Q   QQQQQQQQQQQQQQQQQ   Q                                       
+                                        ******           *        **    *        *                                       
++                                       QQQQQQ           Q        QQ    Q        Q                                       
+                                                         *   *******  ************                                       
++                                                        Q   QQQQQQQ  QQQQQQQQQQQQ                                       
+                                                         *********** *********************                               
++                                                        QQQQQQQQQQQ QQQQQQQQQQQQQQQQQQQQQ                               
+                                                      ***********   *****************     ***                            
++                                                     QQQQQQQQQQQ   QQQQQQQQQQQQQQQQQ     QQQ                            
+                                                     *                       *              *                            
++                                                    Q                       Q              Q                            
+                                                    *                       *****************                            
++                                                   Q                       QQQQQQQQQQQQQQQQQ                            
+                                                     ***********************                                             
++                                                    QQQQQQQQQQQQQQQQQQQQQQQ                                             
+1
+                                                M     M   AAAAA   Y     Y                                                
+         000                                    MM   MM  A     A   Y   Y                                 222             
+        0   0                                   M M M M  A     A    Y Y                                 2   2            
+   222  0   0                                   M  M  M  AAAAAAA     Y                                     2    1        
+  2   2 0   0                                   M     M  A     A     Y                                   2     11        
+     2   000                                    M     M  A     A     Y                                  22222   1        
+   2                                            M     M  A     A     Y                                          1        
+  22222                                                                                                       11111      
+                                                                                                                         
+                                                                                                                         
+    SUNDAY            MONDAY            TUESDAY          WEDNESDAY         THURSDAY           FRIDAY           SATURDAY  
+                                                                                                                         
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I           1  
+                I                 I                 I                 I                 I                 I          11  
+                I                 I                 I                 I                 I                 I           1  
+                I                 I                 I                 I                 I                 I           1  
+                I                 I                 I                 I                 I                 I         11111
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+         222    I         33333   I            4    I         55555   I          666    I         77777   I          888 
+        2   2   I             3   I           44    I         5       I         6       I             7   I         8   8
+           2    I           33    I          4 4    I         5555    I         6666    I            7    I          888 
+         2      I         3   3   I         44444   I             5   I         6   6   I           7     I         8   8
+        22222   I          333    I            4    I         5555    I          666    I           7     I          888 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+         999    I    1     000    I    1      1     I    1     222    I    1    33333   I    1       4    I    1    55555
+        9   9   I   11    0   0   I   11     11     I   11    2   2   I   11        3   I   11      44    I   11    5    
+         9999   I    1    0   0   I    1      1     I    1       2    I    1      33    I    1     4 4    I    1    5555 
+            9   I    1    0   0   I    1      1     I    1     2      I    1    3   3   I    1    44444   I    1        5
+         999    I  11111   000    I  11111  11111   I  11111  22222   I  11111   333    I  11111     4    I  11111  5555 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1     666    I    1    77777   I    1     888    I    1     999    I   222    000    I   222     1     I   222    222 
+  11    6       I   11        7   I   11    8   8   I   11    9   9   I  2   2  0   0   I  2   2   11     I  2   2  2   2
+   1    6666    I    1       7    I    1     888    I    1     9999   I     2   0   0   I     2     1     I     2      2 
+   1    6   6   I    1      7     I    1    8   8   I    1        9   I   2     0   0   I   2       1     I   2      2   
+ 11111   666    I  11111    7     I  11111   888    I  11111   999    I  22222   000    I  22222  11111   I  22222  22222
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222   33333   I   222      4    I   222   55555   I   222    666    I   222   77777   I   222    888    I   222    999 
+ 2   2      3   I  2   2    44    I  2   2  5       I  2   2  6       I  2   2      7   I  2   2  8   8   I  2   2  9   9
+    2     33    I     2    4 4    I     2   5555    I     2   6666    I     2      7    I     2    888    I     2    9999
+  2     3   3   I   2     44444   I   2         5   I   2     6   6   I   2       7     I   2     8   8   I   2         9
+ 22222   333    I  22222     4    I  22222  5555    I  22222   666    I  22222    7     I  22222   888    I  22222   999 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+ 33333   000    I  33333    1     I                 I                 I                 I                 I              
+     3  0   0   I      3   11     I                 I                 I                 I                 I              
+   33   0   0   I    33     1     I                 I                 I                 I                 I              
+ 3   3  0   0   I  3   3    1     I                 I                 I                 I                 I              
+  333    000    I   333   11111   I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ------------------------------------------------------------------------------------------------------------------------
+1                                                    ***                                                                 
+                                                   ******                                                                
+                                                 *        *                                                              
+                                                *          *                                                             
+                                                *          *       *****                                                 
+                                               *           *    *        *                                               
+                                               *          *    *          *      ****                                    
+                                               *          **  *            *   **  * *                                   
+                                              * OO      *  &&         *   **        *                                    
+                                             *        *     &&              *   **   *                                   
+                                            *               &&               *** *****                                   
+                                            *               &&  *********            *                                   
+                                            *               &&           *           *                                   
+                                              **  ***       &&*******     ******     *                                   
+                                    XXXXXXXXXXXX**&&&*******&&XXXXXXX*  **XXXXXX*****XXXXXXXXXXXXXXXX                    
+                                    X            &&&&&                **                            X                    
+                                    X            &&&&&                                              X                    
+                                    X            &&&&&                                              X                    
+                                    X           &&&&&&                                              X                    
+                                    X           &&&&&&                                              X                    
+                                   XXXXXXXXXXXXX&&&&&&XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                   
+                                   X           &&&&&&&                                               X                   
+                                   X           &&&&&&&                                               X                   
+                                   X            &&&&&&                                               X                   
+                                   X             &&&&                                                X                   
+                                   X              &&                                                 X                   
+                                   X                                                                 X                   
+                                  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                  
+                                  X                                                                   X                  
+                                  X                                                                   X                  
+                                  X                                                                   X                  
+                                  X                                                                   X                  
+                                  X                                                                   X                  
+                                  X                                                                   X                  
+                                  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                  
+                                   X                                                                 X                   
+                                   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                   
+                                           X                                               X                             
+                                           X                                               X                             
+                                           XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                             
+                                           X                                               X                             
+                                           X                                               X                             
+                                           X                                               X                             
+                                           X                                               X                             
+                                           X                                               X                             
+                                           XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                             
+                                           X                                               X                             
+                                           X                                               X                             
+                                           X                                               X                             
+                                           X                                               X                             
+                                           X                                               X                             
+                                           XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                             
+                                           X                                               X                             
+                                           XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                             
+1
+                                            JJJJJJJ  U     U  N     N  EEEEEEE                                           
+         000                                   J     U     U  NN    N  E                                 222             
+        0   0                                  J     U     U  N N   N  E                                2   2            
+   222  0   0                                  J     U     U  N  N  N  EEEEE                               2    1        
+  2   2 0   0                                  J     U     U  N   N N  E                                 2     11        
+     2   000                                J  J     U     U  N    NN  E                                22222   1        
+   2                                         JJ       UUUUU   N     N  EEEEEEE                                  1        
+  22222                                                                                                       11111      
+                                                                                                                         
+                                                                                                                         
+    SUNDAY            MONDAY            TUESDAY          WEDNESDAY         THURSDAY           FRIDAY           SATURDAY  
+                                                                                                                         
+                I                 I                 I                 I                 I                 I              
+                I                 I           1     I          222    I         33333   I            4    I         55555
+                I                 I          11     I         2   2   I             3   I           44    I         5    
+                I                 I           1     I            2    I           33    I          4 4    I         5555 
+                I                 I           1     I          2      I         3   3   I         44444   I             5
+                I                 I         11111   I         22222   I          333    I            4    I         5555 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+         666    I         77777   I          888    I          999    I    1     000    I    1      1     I    1     222 
+        6       I             7   I         8   8   I         9   9   I   11    0   0   I   11     11     I   11    2   2
+        6666    I            7    I          888    I          9999   I    1    0   0   I    1      1     I    1       2 
+        6   6   I           7     I         8   8   I             9   I    1    0   0   I    1      1     I    1     2   
+         666    I           7     I          888    I          999    I  11111   000    I  11111  11111   I  11111  22222
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1    33333   I    1       4    I    1    55555   I    1     666    I    1    77777   I    1     888    I    1     999 
+  11        3   I   11      44    I   11    5       I   11    6       I   11        7   I   11    8   8   I   11    9   9
+   1      33    I    1     4 4    I    1    5555    I    1    6666    I    1       7    I    1     888    I    1     9999
+   1    3   3   I    1    44444   I    1        5   I    1    6   6   I    1      7     I    1    8   8   I    1        9
+ 11111   333    I  11111     4    I  11111  5555    I  11111   666    I  11111    7     I  11111   888    I  11111   999 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222    000    I   222     1     I   222    222    I   222   33333   I   222      4    I   222   55555   I   222    666 
+ 2   2  0   0   I  2   2   11     I  2   2  2   2   I  2   2      3   I  2   2    44    I  2   2  5       I  2   2  6    
+    2   0   0   I     2     1     I     2      2    I     2     33    I     2    4 4    I     2   5555    I     2   6666 
+  2     0   0   I   2       1     I   2      2      I   2     3   3   I   2     44444   I   2         5   I   2     6   6
+ 22222   000    I  22222  11111   I  22222  22222   I  22222   333    I  22222     4    I  22222  5555    I  22222   666 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222   77777   I   222    888    I   222    999    I  33333   000    I                 I                 I              
+ 2   2      7   I  2   2  8   8   I  2   2  9   9   I      3  0   0   I                 I                 I              
+    2      7    I     2    888    I     2    9999   I    33   0   0   I                 I                 I              
+  2       7     I   2     8   8   I   2         9   I  3   3  0   0   I                 I                 I              
+ 22222    7     I  22222   888    I  22222   999    I   333    000    I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ------------------------------------------------------------------------------------------------------------------------
+1                                                                                         ***********                    
+                                                                                       *******************               
+                                                                                    ****    **   **  **  ****            
+                                                                                 ***         ************** ***          
+                            ****                                               ***                       **   ***        
+                           **                                               ***                            **** ***      
+                          **                                                ***                              **   **     
+                   ****   *                 ************                    **                                 *** **    
+                ************              ****       ******                 **   ***                                **   
+              *****        **** **     ****               ***               ***   *****                              **  
+            ***              ************                    *** ***         ***      ****                           *** 
+           ***                  **                            *******         **         ****                         ** 
+          **                    **                            ***  ***         **           *****                     ***
+         **                     **                             *******         ***              *****                  **
+         *                       **                            *******          ***                 *****              **
+        *                                                     ******             ***                   ******          **
+        *                                                     **                   ***                      *******    **
+       ***                    ******                        ***                     ****                          ***  **
+       ***                  *************                *****                        ****                            ** 
+       *****                **        *********************                             ****                        ***  
+       *******              **                *********                                    ******                ****    
+       ********             **                                                                *******       ******       
+      ***********           ***                                                                     **********           
+      ************           **                                                                                          
+      **************         ***                                                                                         
+      ***************          ***                                                                                       
+      ***************           *****        ******                                                                      
+       ***************             ************  **                                                                      
+       ****************                        ***                                                                       
+        ****************                *********                                                                        
+         ****************               **  **                                                                           
+          *********************          ******    *********                  ******                                     
+           ************************     ************************             **    ***                                   
+            ***************      **********                   *****          **     ***                                  
+             ***************       *****        *******           ***        **   **  **                                 
+               *************         *     ****************         ***      **        **                                
+                 ***********       *** *****              ***         **      **     *****                               
+                    ********      ***                       **         **      **        **                              
+                      ******     **                         **         ***       **      **                              
+                        ***      **        ********   *  *   **         **        **     ***                             
+                                 ********** **    **  *  *  ***         **        **      **                             
+                                             *     ***********          ************      **                             
+                                             **                         *****    ***      **                             
+                                             **                                           **                             
+                                              *                                           **                             
+                                              **                                          **                             
+                                               **                          ********       **                             
+                                                **                        *************  ***                             
+                                                 **                     ***         ******                               
+                                                  **                  ***                                                
+                                                   ****      **       **                                                 
+                                                     **********      **                                                  
+                                                           ***      **                                                   
+                                                 ***********    *********                                                
+                                               ***                      **                                               
+                                               **                        **                                              
+                                                **               ***      *                                              
+                                                 ***       **      ***  **                                               
+                                                   ****     **       ***                                                 
+                                                      ****************                                                   
+                                                                                                                         
+1
+                                            JJJJJJJ  U     U  L        Y     Y                                           
+         000                                   J     U     U  L         Y   Y                            222             
+        0   0                                  J     U     U  L          Y Y                            2   2            
+   222  0   0                                  J     U     U  L           Y                                2    1        
+  2   2 0   0                                  J     U     U  L           Y                              2     11        
+     2   000                                J  J     U     U  L           Y                             22222   1        
+   2                                         JJ       UUUUU   LLLLLLL     Y                                     1        
+  22222                                                                                                       11111      
+                                                                                                                         
+                                                                                                                         
+    SUNDAY            MONDAY            TUESDAY          WEDNESDAY         THURSDAY           FRIDAY           SATURDAY  
+                                                                                                                         
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I           1     I          222    I         33333
+                I                 I                 I                 I          11     I         2   2   I             3
+                I                 I                 I                 I           1     I            2    I           33 
+                I                 I                 I                 I           1     I          2      I         3   3
+                I                 I                 I                 I         11111   I         22222   I          333 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+           4    I         55555   I          666    I         77777   I          888    I          999    I    1     000 
+          44    I         5       I         6       I             7   I         8   8   I         9   9   I   11    0   0
+         4 4    I         5555    I         6666    I            7    I          888    I          9999   I    1    0   0
+        44444   I             5   I         6   6   I           7     I         8   8   I             9   I    1    0   0
+           4    I         5555    I          666    I           7     I          888    I          999    I  11111   000 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1      1     I    1     222    I    1    33333   I    1       4    I    1    55555   I    1     666    I    1    77777
+  11     11     I   11    2   2   I   11        3   I   11      44    I   11    5       I   11    6       I   11        7
+   1      1     I    1       2    I    1      33    I    1     4 4    I    1    5555    I    1    6666    I    1       7 
+   1      1     I    1     2      I    1    3   3   I    1    44444   I    1        5   I    1    6   6   I    1      7  
+ 11111  11111   I  11111  22222   I  11111   333    I  11111     4    I  11111  5555    I  11111   666    I  11111    7  
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1     888    I    1     999    I   222    000    I   222     1     I   222    222    I   222   33333   I   222      4 
+  11    8   8   I   11    9   9   I  2   2  0   0   I  2   2   11     I  2   2  2   2   I  2   2      3   I  2   2    44 
+   1     888    I    1     9999   I     2   0   0   I     2     1     I     2      2    I     2     33    I     2    4 4 
+   1    8   8   I    1        9   I   2     0   0   I   2       1     I   2      2      I   2     3   3   I   2     44444
+ 11111   888    I  11111   999    I  22222   000    I  22222  11111   I  22222  22222   I  22222   333    I  22222     4 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222   55555   I   222    666    I   222   77777   I   222    888    I   222    999    I  33333   000    I  33333    1  
+ 2   2  5       I  2   2  6       I  2   2      7   I  2   2  8   8   I  2   2  9   9   I      3  0   0   I      3   11  
+    2   5555    I     2   6666    I     2      7    I     2    888    I     2    9999   I    33   0   0   I    33     1  
+  2         5   I   2     6   6   I   2       7     I   2     8   8   I   2         9   I  3   3  0   0   I  3   3    1  
+ 22222  5555    I  22222   666    I  22222    7     I  22222   888    I  22222   999    I   333    000    I   333   11111
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ------------------------------------------------------------------------------------------------------------------------
+1                                                              **********                                                
+                                                           ****          ****                                            
+                                                        ***                  **                                          
+                                                      **      ******           **                                        
+                                                     *      **                   *                                       
+                                                    *      *                      *                                      
+                                                   *       *      *      *         *                                     
+                                                  *         **  ** **  **          *                                     
+                                                  *           **     **            *                                     
+                                                 *      *                **         *                                    
+                                                 *     *       ****        *        *                                    
+                                                *     *    OO *     OO     *        **                                   
+                                                *     *       *           *        *  *                                  
+                                                *      *       ***                     *                                 
+                                                *                                     *                                  
+                                                 *                                 ***                                   
+                                                  *                                *                                     
+                                                  *       I--------------I        *                                      
+                                                   * *  **                       *                                       
+                                                    * **  ***                  **                                        
+                                                    * *  **  *              ***                                          
+                                                    *     ****          ****                                             
+                                                     *     *************   *                                             
+                                                      *     **            **                                             
+                                                     **     *************&&&                                             
+                                                  **        ***&&&&****&&&&&&&                                           
+                                                    **      ****&&******&&&&&                                            
+                                                 *          *&&&&&&&&&&&&&&&&&                                           
+                                                *           *&&&&&&&&&&&&&&&&&&                                          
+                                                *          *&&&&&&&&&&&&&&&&&&&&                                         
+                                               &*         *&&&&&&&&&&&&&&&&&&&&&                                         
+                                               &&*       *&&&&&&&&&&&&&*&&&&&&&&                                         
+                                               &&&**  ***&&&&&&&&&&&&&&**&&&&&&&&                                        
+                                                &&O&**&&&O&&&&&&O&&&&&&O*&&&&&&&&                                        
+                                                 OOO&&&&OOO&&&&OOO&&&&OO*&&&&&&&&                                        
+                                                 OOOO&&OOOOO&&OOOOO&&OOO*      *&                                        
+                                                 OOOOOOOOOOOOOOOOOOOOOOO*      *&&                                       
+                                                 &&OOOOOO&OOOOOO&OOOOOO&*      *&&                                       
+                                                &&&&OOOO&&&OOOO&&&OOOO&&*      **&&                                      
+                                                &&&&&OO&&&&&OO&&&&&OO&&&* * * ****&                                      
+                                                &&&&&&&&&&&&&&&&&&&&&&&&* * ** *&&&                                      
+                                                &&&&&&&&&&&&&&&&&&&&&&&&*****&*&&&&                                      
+                                                 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                       
+                                                 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                       
+                                                 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                       
+                                                         *       *  *        *                                           
+                                                         *********  ********                                             
+                                                         *       *  *        *                                           
+                                                    ****************************                                         
+                                                ****         ****              **                                        
+                                              **            **                  **                                       
+                                             *************************************                                       
+                                                                                                                         
+                                                      OH, GOOD GRIEF                                                     
+1
+                                    AAAAA   U     U   GGGGG   U     U   SSSSS   TTTTTTT                                  
+         000                       A     A  U     U  G     G  U     U  S     S     T                     222             
+        0   0                      A     A  U     U  G        U     U  S           T                    2   2            
+   222  0   0                      AAAAAAA  U     U  G   GGG  U     U   SSSSS      T                       2    1        
+  2   2 0   0                      A     A  U     U  G     G  U     U        S     T                     2     11        
+     2   000                       A     A  U     U  G     G  U     U  S     S     T                    22222   1        
+   2                               A     A   UUUUU    GGGGG    UUUUU    SSSSS      T                            1        
+  22222                                                                                                       11111      
+                                                                                                                         
+                                                                                                                         
+    SUNDAY            MONDAY            TUESDAY          WEDNESDAY         THURSDAY           FRIDAY           SATURDAY  
+                                                                                                                         
+                I                 I                 I                 I                 I                 I              
+          1     I          222    I         33333   I            4    I         55555   I          666    I         77777
+         11     I         2   2   I             3   I           44    I         5       I         6       I             7
+          1     I            2    I           33    I          4 4    I         5555    I         6666    I            7 
+          1     I          2      I         3   3   I         44444   I             5   I         6   6   I           7  
+        11111   I         22222   I          333    I            4    I         5555    I          666    I           7  
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+         888    I          999    I    1     000    I    1      1     I    1     222    I    1    33333   I    1       4 
+        8   8   I         9   9   I   11    0   0   I   11     11     I   11    2   2   I   11        3   I   11      44 
+         888    I          9999   I    1    0   0   I    1      1     I    1       2    I    1      33    I    1     4 4 
+        8   8   I             9   I    1    0   0   I    1      1     I    1     2      I    1    3   3   I    1    44444
+         888    I          999    I  11111   000    I  11111  11111   I  11111  22222   I  11111   333    I  11111     4 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1    55555   I    1     666    I    1    77777   I    1     888    I    1     999    I   222    000    I   222     1  
+  11    5       I   11    6       I   11        7   I   11    8   8   I   11    9   9   I  2   2  0   0   I  2   2   11  
+   1    5555    I    1    6666    I    1       7    I    1     888    I    1     9999   I     2   0   0   I     2     1  
+   1        5   I    1    6   6   I    1      7     I    1    8   8   I    1        9   I   2     0   0   I   2       1  
+ 11111  5555    I  11111   666    I  11111    7     I  11111   888    I  11111   999    I  22222   000    I  22222  11111
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222    222    I   222   33333   I   222      4    I   222   55555   I   222    666    I   222   77777   I   222    888 
+ 2   2  2   2   I  2   2      3   I  2   2    44    I  2   2  5       I  2   2  6       I  2   2      7   I  2   2  8   8
+    2      2    I     2     33    I     2    4 4    I     2   5555    I     2   6666    I     2      7    I     2    888 
+  2      2      I   2     3   3   I   2     44444   I   2         5   I   2     6   6   I   2       7     I   2     8   8
+ 22222  22222   I  22222   333    I  22222     4    I  22222  5555    I  22222   666    I  22222    7     I  22222   888 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222    999    I  33333   000    I  33333    1     I                 I                 I                 I              
+ 2   2  9   9   I      3  0   0   I      3   11     I                 I                 I                 I              
+    2    9999   I    33   0   0   I    33     1     I                 I                 I                 I              
+  2         9   I  3   3  0   0   I  3   3    1     I                 I                 I                 I              
+ 22222   999    I   333    000    I   333   11111   I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ------------------------------------------------------------------------------------------------------------------------
+1                                                                                                                        
+                                                                                                                         
+                                                                                                                         
+                                                         XXXXXXXXXXXXX                                                   
+                                                      XXXX           XXX                                                 
+                                                      X                    XX                                            
+                                                     XX                      XX                                          
+                                                    XX                          XX                                       
+                                                   XX                             XX                                     
+                                                  XX                                XX                                   
+                                                 XX                                  XX                                  
+                                                 XX                                   XX                                 
+                                                 XX                                    XX                                
+                                                 XX                XXXXX                XX                               
+                                     XXXXXXXXXXX XX         X    X  XXX  X               XX                              
+                                 RRRR        XXX  X       XX    X X     X X              XX                              
+                             RRRRRRRRR       XXXXX XXXXXX XX XX X      X  X             XX                               
+                          RRRRRRRRRRRR       XXX                 X      X X             XX                               
+                        RRRRRRRRRRRRRRR      XXX                       X X            XX                                 
+                     X    RRRRRRRRRRRRRR     XXX                     X XX           XX                                   
+                   X       RRRRRRRRRRRRRR    XXXXXXX                   XX         XX                                     
+                 X          RRRRRRRRRRRRR  XXXXX   X                      X     XX                                       
+               RR            RRRRRRRX        XXX    X                       X    XX                                      
+              RRRR            RRRRRX         XX     X              XX       X     XX                                     
+             RRRRRR            RRRX          RX      X              XX      X      XX                                    
+            RRRRRRRR            RRX       RRRRX       X               X XXXX        XX                                   
+           RRRRRRRRRR            RX    RRRRRRRX        X              XX   X        XX                                   
+          RRRRRRRRRRRR         VVVVXRRRRRRRRRRX         X             X    X        XX                                   
+          RRRRRRRRRRRRR     VVVVVVVVVRRRRRRRRXX           X     XX    X     X      XX                                    
+         RRRRRRRRRRRRRRR  VVVVVVVVVVVVVRRRRXXX X            X X  X    X      X    XX                                     
+        X  RRRRRRRRRRRRRVVVVVVVVVVVVVVVVRXXX    X                 XXX         XXX                                        
+        X    RRRRRRRRRRVVVVVVVVVVVVVVVVVXX       XX                                                                      
+       X       RRRRRRRVVVVVVVVVVVVVVVVVV           XX                                                                    
+       X          RRRVVVVVVVVVVVVVVVVVVVX            X-----                                                              
+      X            RVVVVVVVVVVVVVVVVVVVV XX            ----         /                                                    
+      RR            VVVVVVVVVVVVVVVVVVVV   XXX         ----        /                                                     
+      RRRR         VVVVVVVVVVVVVVVVVVVV    BBBX       ----        /                                                      
+      RRRRRR      VVVVVVVVVVVVVVVVVVVVV   BBBBB XXXX  ---- 00000000000000000000000000000000000000000000000000000000000   
+      RRRRRRRRR   VVVVVVVVVVVVVVVVVVVV   BBBBBB      ---   OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO   
+       RRRRRRRRRRVVVVVVVVVVVVVVVVVVVV   BBBBBBB            OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO   
+       RRRRRRRRRRVVVVVVVVVVVVVVVVVVVVX BBBBBBBB         %OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO   
+       X  RRRRRRRVVVVVVVVVVVVVVVVVVV  BBBBBBBBB        %OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO   
+        X       VVVVVVVVVVVVVVVVVVV  BBBBBBBBBOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO   
+         X      VVVVVVVVVVVVVVVVVV   BBBBBBBBBOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO   
+          X     VVVVVVVVVVVVVVVVVX  BBBBBBBBBOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO/                        OOO        
+           X    VVVVVVVVVVVVVVVV  X BBBBBBBBB        OOO                                                      OOO        
+            X   VVVVVVVVVVVVVVV    BBBBBBBBB         OOO                                                      OOO        
+             X  VVVVVVVVVVVVV      BBBBBBBB          OOO                                                      OOO        
+              XXVVVVVVVVVVV        BBBBBBB           OOO                                                      OOO        
+                 VVVVVVV           BBBBB            OOO                                                      OOO         
+                                    BBB                                                                                  
+1
+                    SSSSS   EEEEEEE  PPPPPP  TTTTTTT  EEEEEEE  M     M  BBBBBB   EEEEEEE  RRRRRR                         
+         000       S     S  E        P     P    T     E        MM   MM  B     B  E        R     R        222             
+        0   0      S        E        P     P    T     E        M M M M  B     B  E        R     R       2   2            
+   222  0   0       SSSSS   EEEEE    PPPPPP     T     EEEEE    M  M  M  BBBBBB   EEEEE    RRRRRR           2    1        
+  2   2 0   0            S  E        P          T     E        M     M  B     B  E        R   R          2     11        
+     2   000       S     S  E        P          T     E        M     M  B     B  E        R    R        22222   1        
+   2                SSSSS   EEEEEEE  P          T     EEEEEEE  M     M  BBBBBB   EEEEEEE  R     R               1        
+  22222                                                                                                       11111      
+                                                                                                                         
+                                                                                                                         
+    SUNDAY            MONDAY            TUESDAY          WEDNESDAY         THURSDAY           FRIDAY           SATURDAY  
+                                                                                                                         
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I           1     I          222    I         33333   I            4 
+                I                 I                 I          11     I         2   2   I             3   I           44 
+                I                 I                 I           1     I            2    I           33    I          4 4 
+                I                 I                 I           1     I          2      I         3   3   I         44444
+                I                 I                 I         11111   I         22222   I          333    I            4 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+        55555   I          666    I         77777   I          888    I          999    I    1     000    I    1      1  
+        5       I         6       I             7   I         8   8   I         9   9   I   11    0   0   I   11     11  
+        5555    I         6666    I            7    I          888    I          9999   I    1    0   0   I    1      1  
+            5   I         6   6   I           7     I         8   8   I             9   I    1    0   0   I    1      1  
+        5555    I          666    I           7     I          888    I          999    I  11111   000    I  11111  11111
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1     222    I    1    33333   I    1       4    I    1    55555   I    1     666    I    1    77777   I    1     888 
+  11    2   2   I   11        3   I   11      44    I   11    5       I   11    6       I   11        7   I   11    8   8
+   1       2    I    1      33    I    1     4 4    I    1    5555    I    1    6666    I    1       7    I    1     888 
+   1     2      I    1    3   3   I    1    44444   I    1        5   I    1    6   6   I    1      7     I    1    8   8
+ 11111  22222   I  11111   333    I  11111     4    I  11111  5555    I  11111   666    I  11111    7     I  11111   888 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1     999    I   222    000    I   222     1     I   222    222    I   222   33333   I   222      4    I   222   55555
+  11    9   9   I  2   2  0   0   I  2   2   11     I  2   2  2   2   I  2   2      3   I  2   2    44    I  2   2  5    
+   1     9999   I     2   0   0   I     2     1     I     2      2    I     2     33    I     2    4 4    I     2   5555 
+   1        9   I   2     0   0   I   2       1     I   2      2      I   2     3   3   I   2     44444   I   2         5
+ 11111   999    I  22222   000    I  22222  11111   I  22222  22222   I  22222   333    I  22222     4    I  22222  5555 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222    666    I   222   77777   I   222    888    I   222    999    I  33333   000    I                 I              
+ 2   2  6       I  2   2      7   I  2   2  8   8   I  2   2  9   9   I      3  0   0   I                 I              
+    2   6666    I     2      7    I     2    888    I     2    9999   I    33   0   0   I                 I              
+  2     6   6   I   2       7     I   2     8   8   I   2         9   I  3   3  0   0   I                 I              
+ 22222   666    I  22222    7     I  22222   888    I  22222   999    I   333    000    I                 I              
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ------------------------------------------------------------------------------------------------------------------------
+1                                                                                                                        
+                                                      /----X      /----X                                                 
+                                                     / ---- X    / /--X X                                                
+                                                    / /    X X  / /    X X                                               
+                                                   / /  /---X I-I IX   I I                                               
+                                                   I I /                                                                 
+                                                   I I /OOOOI I-I IOX  I I                                               
+                                                   I I/OOOO/ /OOOX XOX / /                                               
+                                                   I X/OOO/ /O/---X X-X /                                                
+                                                    X X--/ /O/     X---/                                                 
+                                                   /SX--/-XO/          X                                                 
+                                                 /XSS/OOOOO/            X                                                
+                                                /  X/OOOOO/              X                                               
+                                               /    XOOOOI      //X   //X X                                              
+                                               I     XOOOI     //  X //  X X------&&&&---X                               
+                                               I      IOOI      %8<   %8<                 X                              
+                                               I  &   IO%/<                                X                             
+                                               I      IOOI                                  X                            
+                                               X     /OOOI                                   X                           
+                                                X   /OOOOI                                    X                          
+                                                 X-/OOOOOX                            X-X     <                          
+                                                  XOOOOOOOX                          %&&&<    <                          
+                                                   XOOOOOOOX                         %&&&<    <                          
+                                                    XOOOOOOOX--X                       X-X     <                         
+                                                     XOOOOOOOOOOX       ***                   <                          
+                                                      X---------X          *                  /                          
+                                                               XX           *                /                           
+                                                                 X           *--X           /                            
+                                                                  I       /***   X---------/                             
+                                        *#*#*#*-------*           I      /                                               
+                                         *I           I*-----*    I      I          --                                   
+                                        *I           I*     I*#*<*#*#*#*<         <OO<                                   
+                                         *I           I*   *#*   %OOOOOOO<      -  %OO<                                  
+                                         *I           I-----**#*%*#*#*#*<&&&&&/ XX,&&&&&                                 
+                                      *#*#*-----------*---*      I       I&&&--<      %   <                              
+                                                                /                      < %                               
+                                                               /                      < %                                
+                                                              /                  -    < %                                
+                                                             /*         /&&&I&&&&/ /&&/&&/                               
+                                                            /&&             I        XX                                  
+                                                           /&&&             I /&&&<  XX                                  
+                                                          /&&&             /&&&<  I  XX                                  
+                                           -             /&&&&            /&&&&I  /  XX                                  
+                                             -          /****             I    /  X  XX                                  
+                                            - -       /***               X    X   < XX                                   
+                                             -   - -  %           /&&&&&X X    <  I XX                                   
+                                               - **** %          &       X     I  I XX                                   
+                                                  - - -X                       I  I XX                                   
+                                                        X                      I  I XX                                   
+                                                         X                     I  I XX                                   
+                                                          X      /&&&&&&&X     I&&</XX                                   
+                                                           X&&&&/         X&&&&<  /XX/                                   
+                                             XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                               
+                                             XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                               
+1
+                               OOOOO    CCCCC   TTTTTTT   OOOOO   BBBBBB   EEEEEEE  RRRRRR                               
+         000                  O     O  C     C     T     O     O  B     B  E        R     R              222             
+        0   0                 O     O  C           T     O     O  B     B  E        R     R             2   2            
+   222  0   0                 O     O  C           T     O     O  BBBBBB   EEEEE    RRRRRR                 2    1        
+  2   2 0   0                 O     O  C           T     O     O  B     B  E        R   R                2     11        
+     2   000                  O     O  C     C     T     O     O  B     B  E        R    R              22222   1        
+   2                           OOOOO    CCCCC      T      OOOOO   BBBBBB   EEEEEEE  R     R                     1        
+  22222                                                                                                       11111      
+                                                                                                                         
+                                                                                                                         
+    SUNDAY            MONDAY            TUESDAY          WEDNESDAY         THURSDAY           FRIDAY           SATURDAY  
+                                                                                                                         
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I           1     I          222 
+                I                 I                 I                 I                 I          11     I         2   2
+                I                 I                 I                 I                 I           1     I            2 
+                I                 I                 I                 I                 I           1     I          2   
+                I                 I                 I                 I                 I         11111   I         22222
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+        33333   I            4    I         55555   I          666    I         77777   I          888    I          999 
+            3   I           44    I         5       I         6       I             7   I         8   8   I         9   9
+          33    I          4 4    I         5555    I         6666    I            7    I          888    I          9999
+        3   3   I         44444   I             5   I         6   6   I           7     I         8   8   I             9
+         333    I            4    I         5555    I          666    I           7     I          888    I          999 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1     000    I    1      1     I    1     222    I    1    33333   I    1       4    I    1    55555   I    1     666 
+  11    0   0   I   11     11     I   11    2   2   I   11        3   I   11      44    I   11    5       I   11    6    
+   1    0   0   I    1      1     I    1       2    I    1      33    I    1     4 4    I    1    5555    I    1    6666 
+   1    0   0   I    1      1     I    1     2      I    1    3   3   I    1    44444   I    1        5   I    1    6   6
+ 11111   000    I  11111  11111   I  11111  22222   I  11111   333    I  11111     4    I  11111  5555    I  11111   666 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1    77777   I    1     888    I    1     999    I   222    000    I   222     1     I   222    222    I   222   33333
+  11        7   I   11    8   8   I   11    9   9   I  2   2  0   0   I  2   2   11     I  2   2  2   2   I  2   2      3
+   1       7    I    1     888    I    1     9999   I     2   0   0   I     2     1     I     2      2    I     2     33 
+   1      7     I    1    8   8   I    1        9   I   2     0   0   I   2       1     I   2      2      I   2     3   3
+ 11111    7     I  11111   888    I  11111   999    I  22222   000    I  22222  11111   I  22222  22222   I  22222   333 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222      4    I   222   55555   I   222    666    I   222   77777   I   222    888    I   222    999    I  33333   000 
+ 2   2    44    I  2   2  5       I  2   2  6       I  2   2      7   I  2   2  8   8   I  2   2  9   9   I      3  0   0
+    2    4 4    I     2   5555    I     2   6666    I     2      7    I     2    888    I     2    9999   I    33   0   0
+  2     44444   I   2         5   I   2     6   6   I   2       7     I   2     8   8   I   2         9   I  3   3  0   0
+ 22222     4    I  22222  5555    I  22222   666    I  22222    7     I  22222   888    I  22222   999    I   333    000 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+ 33333    1     I                 I                 I                 I                 I                 I              
+     3   11     I                 I                 I                 I                 I                 I              
+   33     1     I                 I                 I                 I                 I                 I              
+ 3   3    1     I                 I                 I                 I                 I                 I              
+  333   11111   I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ------------------------------------------------------------------------------------------------------------------------
+1                                                                                                                        
+                                                                                  -XXXXXX-                               
+                                                                              XXXX        XX                             
+                                                        XXXXX                X               XX                          
+                                                      XX     XX             X                  XX                        
+                                                    XX         XXX         X                     XX                      
+                                                  XX          *-  XXX     X               ****     XX                    
+                                                 XX         /***     XXXXX               ******      X                   
+                                                XXX        -**                           *******      X                  
+                                               XXX                                        *****       X                  
+                                               XX                  /<                                 X                  
+                                              XXX                  /                                  X                  
+                                              XXX                 %/ X                                X                  
+                                            XXX X                    -XX                             X                   
+                                           XXXX X                      XXXXXXXXX                    X                    
+                                          XXXX  X                            XXXXXXXX             XX                     
+                                         X XXX XX                          XX        XXXXXXXXXXXXX                       
+                                         XXXX X                          XX                                              
+                                       XXXXX  XX                       XX                                                
+                                       XXXXX X XX                     XX                                                 
+                                      XXXXXX X   XX                  XXX                                                 
+                                     XXXX XXX       X              XXXXXX                                                
+                                     XXXX XX          X           X  XXXXX                                               
+                                     XXXX XX           X         X   XXXXX                                               
+                                    XXX XXXX            X       X     XXXXXX                                             
+                                    XXX XXXX             X      X      XXXXXX                                            
+                                    XXXXXXX              X      X       XXXXX                                            
+                                    XXXXXXXX             X      X       XXXXX                                            
+                                     XXXXXXXX            I//////I        XXXXX                                           
+                                      XXXXXXX            I//////I        XXXXX                                           
+                                      XXXXXXXX           I//////I        XXXXX                                           
+                                       XXXXXXX           X      X        XXXXX                                           
+                                         XXXXX           X      X        XXXXX                                           
+                                                         X      X        XXXX                                            
+                                                         X      X        XXX                                             
+                                                         X      X                                                        
+                                                        X       X                                                        
+                                                       X         X                                                       
+                                                      XX         X                                                       
+                                                      X          X                                                       
+                                                     X           X                                                       
+                                                     X           X                                                       
+                                              XXXXXX X            X  XXXXXX                                              
+                                            XXX    XX             X XX     XX                                            
+                                           XX       XX             X        XX                                           
+                                           X          X           XX         X                                           
+                                          X           X           X           X                                          
+                                          X           X           X           X                                          
+                                           X          X           X           X                                          
+                                           X          X           X           X                                          
+                                            X         XX          X          X                                           
+                                            XX        X           X          X                                           
+                                  XXXXXXXX    X       XX   XX     X         X                                            
+                                 XX       XXXX X   XXXX    XX     X           XXXXXXX                                    
+                               XX    XX       XXXXXX       XX      XX      X        XXX                                  
+                               X    XX                     XX       X      XX     X    X                                 
+                               X    X     X      X         XX        XX      X    X    X                                 
+                               X   X      X     X          XX          X      XX   X   X                                 
+                               XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                 
+1
+                          N     N   OOOOO   V     V  EEEEEEE  M     M  BBBBBB   EEEEEEE  RRRRRR                          
+         000              NN    N  O     O  V     V  E        MM   MM  B     B  E        R     R         222             
+        0   0             N N   N  O     O  V     V  E        M M M M  B     B  E        R     R        2   2            
+   222  0   0             N  N  N  O     O  V     V  EEEEE    M  M  M  BBBBBB   EEEEE    RRRRRR            2    1        
+  2   2 0   0             N   N N  O     O   V   V   E        M     M  B     B  E        R   R           2     11        
+     2   000              N    NN  O     O    V V    E        M     M  B     B  E        R    R         22222   1        
+   2                      N     N   OOOOO      V     EEEEEEE  M     M  BBBBBB   EEEEEEE  R     R                1        
+  22222                                                                                                       11111      
+                                                                                                                         
+                                                                                                                         
+    SUNDAY            MONDAY            TUESDAY          WEDNESDAY         THURSDAY           FRIDAY           SATURDAY  
+                                                                                                                         
+                I                 I                 I                 I                 I                 I              
+                I           1     I          222    I         33333   I            4    I         55555   I          666 
+                I          11     I         2   2   I             3   I           44    I         5       I         6    
+                I           1     I            2    I           33    I          4 4    I         5555    I         6666 
+                I           1     I          2      I         3   3   I         44444   I             5   I         6   6
+                I         11111   I         22222   I          333    I            4    I         5555    I          666 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+        77777   I          888    I          999    I    1     000    I    1      1     I    1     222    I    1    33333
+            7   I         8   8   I         9   9   I   11    0   0   I   11     11     I   11    2   2   I   11        3
+           7    I          888    I          9999   I    1    0   0   I    1      1     I    1       2    I    1      33 
+          7     I         8   8   I             9   I    1    0   0   I    1      1     I    1     2      I    1    3   3
+          7     I          888    I          999    I  11111   000    I  11111  11111   I  11111  22222   I  11111   333 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1       4    I    1    55555   I    1     666    I    1    77777   I    1     888    I    1     999    I   222    000 
+  11      44    I   11    5       I   11    6       I   11        7   I   11    8   8   I   11    9   9   I  2   2  0   0
+   1     4 4    I    1    5555    I    1    6666    I    1       7    I    1     888    I    1     9999   I     2   0   0
+   1    44444   I    1        5   I    1    6   6   I    1      7     I    1    8   8   I    1        9   I   2     0   0
+ 11111     4    I  11111  5555    I  11111   666    I  11111    7     I  11111   888    I  11111   999    I  22222   000 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222     1     I   222    222    I   222   33333   I   222      4    I   222   55555   I   222    666    I   222   77777
+ 2   2   11     I  2   2  2   2   I  2   2      3   I  2   2    44    I  2   2  5       I  2   2  6       I  2   2      7
+    2     1     I     2      2    I     2     33    I     2    4 4    I     2   5555    I     2   6666    I     2      7 
+  2       1     I   2      2      I   2     3   3   I   2     44444   I   2         5   I   2     6   6   I   2       7  
+ 22222  11111   I  22222  22222   I  22222   333    I  22222     4    I  22222  5555    I  22222   666    I  22222    7  
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222    888    I   222    999    I  33333   000    I                 I                 I                 I              
+ 2   2  8   8   I  2   2  9   9   I      3  0   0   I                 I                 I                 I              
+    2    888    I     2    9999   I    33   0   0   I                 I                 I                 I              
+  2     8   8   I   2         9   I  3   3  0   0   I                 I                 I                 I              
+ 22222   888    I  22222   999    I   333    000    I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ------------------------------------------------------------------------------------------------------------------------
+1OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                                           *********                                     
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                                       ****       ***                                    
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO       OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                                     **              *                                   
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO              OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                                  **   ***            *                                  
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO   OOO            OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                  ***************   *     *            *                                 
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO   O     O            OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                               ***                  *     *             *                                
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                  O     O             OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                             **                    **    **             *                                
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                    OO    OO             OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                            *                      **    **              *                               
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                      OO    OO              OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                           *                                      ******  *                              
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                                      OOOOOO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                          *            ******                   ********* *                              
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO            OOOOOO                   OOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                          *           ********                 **********  *                             
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO           OOOOOOOO                 OOOOOOOOOO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                          *            *****                  ************ *                             
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO            OOOOO                  OOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                          *                                  ************* *                             
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                                  OOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                          *                            *     ************* *                             
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                            O     OOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                           *       *                  * *   ************** *                             
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO       O                  O O   OOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                            *     * *                *  *   ************** *                             
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO     O O                O  O   OOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                             **   *  ***           ** * *  *************** *                             
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO   O  OOO           OO O O  OOOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                               **** *   ************   **  **************  *                             
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO O   OOOOOOOOOOOO   OO  OOOOOOOOOOOOOO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                   ***  *    *  *   ***    ************** *                              
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  O    O  O   OOO    OOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                      ***************    *************** *                               
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO    OOOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                              *        **  ************  *                               
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO        OOOOOOOOOOOOOOOO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                               *      *     ********** **                                
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO      OOOOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                             **********      **********                                  
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                             **********       ******                                     
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                           **        *                                                   
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO        OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                          *           *                                                  
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO           OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                        **       *     *                                                 
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO       O     OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                       **        *     *                                                 
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO        O     OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                      **        *       *                                                
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO        O       OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                     **         *    *  *                                                
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO         O    O  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                     *         *     *   *                                               
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO         O     O   OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                    *          *     *   *                                               
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO          O     O   OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                    *          *     *   *                                               
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO          O     O   OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                    *          *    * **  *                                              
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO          O    O OO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                   *          *     **  * *                                              
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO          O     OO  O OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                   *          *     *   *  *                                             
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO          O     O   O  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                   *          *       ***  *                                             
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO          O       OOO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                   *          *         *   *                                            
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO          O         O   OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                   *          *      * *    *                                            
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO          O      O O    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                    *          *     **     *                                            
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO          O     OO     OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                    *           *****       *   **                                       
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO           OOOOO       OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                     *                     *   *  *                                      
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                     OOOOO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                      **                  *****   *                                      
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                  OOOOO   OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                        *                         *                                      
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                               ******    **                      *                                       
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                      OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                              *      ***  *   *********         *                                        
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO      OOOOOO   OOOOOOOOO         OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                              *  *      * *   *      *         *                                         
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  O      OOO   OOOOOOOO         OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                               **  *     *    *     *     *   *                                          
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  O     O    OOOOOOO     O   OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                ***           **    *  *  * **                                           
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO           OOOOOOO  O  O OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                  **            *   *  *  *                                              
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO            OOOOO  O  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                    ***          *  *  ***                                               
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO          OOOO  OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                       ****      *   **                                                  
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO      OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                           ******                                                        
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                  --------------------------------                                       
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                 ---------------------------------------------------------------                         
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                          -------------------------------------------------------------------            
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+                                                           --------------------------------------------                  
++OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+1
+                          DDDDDD   EEEEEEE   CCCCC   EEEEEEE  M     M  BBBBBB   EEEEEEE  RRRRRR                          
+         000              D     D  E        C     C  E        MM   MM  B     B  E        R     R         222             
+        0   0             D     D  E        C        E        M M M M  B     B  E        R     R        2   2            
+   222  0   0             D     D  EEEEE    C        EEEEE    M  M  M  BBBBBB   EEEEE    RRRRRR            2    1        
+  2   2 0   0             D     D  E        C        E        M     M  B     B  E        R   R           2     11        
+     2   000              D     D  E        C     C  E        M     M  B     B  E        R    R         22222   1        
+   2                      DDDDDD   EEEEEEE   CCCCC   EEEEEEE  M     M  BBBBBB   EEEEEEE  R     R                1        
+  22222                                                                                                       11111      
+                                                                                                                         
+                                                                                                                         
+    SUNDAY            MONDAY            TUESDAY          WEDNESDAY         THURSDAY           FRIDAY           SATURDAY  
+                                                                                                                         
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I           1     I          222    I         33333   I            4 
+                I                 I                 I          11     I         2   2   I             3   I           44 
+                I                 I                 I           1     I            2    I           33    I          4 4 
+                I                 I                 I           1     I          2      I         3   3   I         44444
+                I                 I                 I         11111   I         22222   I          333    I            4 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+        55555   I          666    I         77777   I          888    I          999    I    1     000    I    1      1  
+        5       I         6       I             7   I         8   8   I         9   9   I   11    0   0   I   11     11  
+        5555    I         6666    I            7    I          888    I          9999   I    1    0   0   I    1      1  
+            5   I         6   6   I           7     I         8   8   I             9   I    1    0   0   I    1      1  
+        5555    I          666    I           7     I          888    I          999    I  11111   000    I  11111  11111
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1     222    I    1    33333   I    1       4    I    1    55555   I    1     666    I    1    77777   I    1     888 
+  11    2   2   I   11        3   I   11      44    I   11    5       I   11    6       I   11        7   I   11    8   8
+   1       2    I    1      33    I    1     4 4    I    1    5555    I    1    6666    I    1       7    I    1     888 
+   1     2      I    1    3   3   I    1    44444   I    1        5   I    1    6   6   I    1      7     I    1    8   8
+ 11111  22222   I  11111   333    I  11111     4    I  11111  5555    I  11111   666    I  11111    7     I  11111   888 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+   1     999    I   222    000    I   222     1     I   222    222    I   222   33333   I   222      4    I   222   55555
+  11    9   9   I  2   2  0   0   I  2   2   11     I  2   2  2   2   I  2   2      3   I  2   2    44    I  2   2  5    
+   1     9999   I     2   0   0   I     2     1     I     2      2    I     2     33    I     2    4 4    I     2   5555 
+   1        9   I   2     0   0   I   2       1     I   2      2      I   2     3   3   I   2     44444   I   2         5
+ 11111   999    I  22222   000    I  22222  11111   I  22222  22222   I  22222   333    I  22222     4    I  22222  5555 
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+  222    666    I   222   77777   I   222    888    I   222    999    I  33333   000    I  33333    1     I              
+ 2   2  6       I  2   2      7   I  2   2  8   8   I  2   2  9   9   I      3  0   0   I      3   11     I              
+    2   6666    I     2      7    I     2    888    I     2    9999   I    33   0   0   I    33     1     I              
+  2     6   6   I   2       7     I   2     8   8   I   2         9   I  3   3  0   0   I  3   3    1     I              
+ 22222   666    I  22222    7     I  22222   888    I  22222   999    I   333    000    I   333   11111   I              
+                I                 I                 I                 I                 I                 I              
+ ---------------I-----------------I-----------------I-----------------I-----------------I-----------------I--------------
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+                I                 I                 I                 I                 I                 I              
+ ------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,28 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 0 0 135 110
+614 25 translate 90 rotate .88 .76 scale
+    /n 1 def
+    /fs 10 def
+    /ls 11.2 def
+    /ld ls 2 mul def
+    /lt ls 3 mul def
+    /t 740 fs sub def
+    /y t def /ff t def /os 20 def
+    /s 512 string def
+    /Courier-Bold findfont
+    fs scalefont setfont
+    /p {n {copypage} repeat erasepage} def
+    /i (%stdin) (r) file def
+    /{/c i read not {p stop} if def
+    c 26 eq {p stop} if
+    /x 20 def
+    /y c 43 eq {y /x os def}
+    {c 32 eq {y ls sub}
+    {c 48 eq {y ld sub}
+    {c 45 eq {y lt sub}
+    {c 49 eq {ff} {y} ifelse}
+    ifelse} ifelse} ifelse} ifelse def
+    /ff 0 def
+    y 30 le {p /y t def} if x y moveto
+    /os i s readline not {p stop} if dup show
+    length 0 eq {20} {20.72} ifelse def } loop
