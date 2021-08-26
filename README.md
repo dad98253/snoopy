@@ -43,4 +43,7 @@ code that will be added to the top of the output file. The header includes a cut
 program that converts line printer formated output to landscape formatted output that fits
 nicely on 8.5x11 inch paper. (sorry, you A4 types will just have to deal with it ;-)
 
-
+To print the postscript output on linux, rename the output.dat file to output.ps. Then from 
+the cli, enter : lpr output.ps
+This was tested with a (postscript) xerox Workcenter 3225. But, should work on any postcript
+printer.
