@@ -106,3 +106,5 @@ c_fct.h
 *.xls
 *.ods
 *.xml
+
+*~
